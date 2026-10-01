@@ -21,3 +21,5 @@ ipch/
 *.sdf
 *.opensdf
 package-lock.json
+.kilo
+.cursor
